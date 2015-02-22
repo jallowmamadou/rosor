@@ -29,11 +29,11 @@
 
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand"><a href="index.php">ROSOR</a></h3>
+              <h3 class="masthead-brand"><a href="#">ROSOR</a></h3>
               <nav>
                 <ul class="nav masthead-nav">
-                  <li class="active"><a href="home.php">Home</a></li>
-                  <li><a href="menu.php">Menu</a></li>
+                  <li ><a href="home.php">Home</a></li>
+                  <li class="active"><a href="menu.php">Menu</a></li>
                   <li><a href="reservation.php">Reservations</a></li>
                   <li><a href="feedback.php">Feedback</a></li>
                   <li><a href="contact.php">Contact</a></li>
@@ -46,8 +46,8 @@
              <!-- this is where the buttons would be -->
 
               <div class="btn-group btn-group-lg" role="group" aria-label="...">
-                <a href="restaurant.php" class="btn btn-primary">Restaurant</a>
-                <a href="customer.php" class="btn btn-success">Customer</a>
+                <a type="a" class="btn btn-primary">Restaurant</a>
+                <a type="a" class="btn btn-success">Customer</a>
               </div>
 
             </div>            
