@@ -6,3 +6,25 @@
 	font-weight: bold;
 	font: arial;
 }
+
+input[type="text"], input[type="password"] {
+
+	color: black !important;
+	font-family: sans-serif;
+	padding: 4px;
+	border-style: none;
+
+}
+
+ /*input[type="password"] {*/
+/*margin: 1px;*/
+
+ form ul > li{
+
+ 	list-style: none;
+ }
+
+ form ul > li > label.stuborn{
+ 	margin-right: 1px;
+ } 
+
