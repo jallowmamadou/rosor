@@ -34,7 +34,7 @@
 
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand"><a href="index.php" id="rosor">ROSOR</a></h3>
+              <h1 class="masthead-brand"><a href="index.php" id="rosor">ROSOR</a></h1>
               <nav>
                 <ul class="nav masthead-nav">
                   <li class="<?php echo ($page == 'home')? 'active' : '' ?>"><a href="home.php">Home</a></li>
@@ -42,6 +42,9 @@
                   <li class="<?php echo ($page == 'reservation')? 'active' : '' ?>"><a href="reservation.php">Reservations</a></li>
                   <li class="<?php echo ($page == 'feedback')? 'active' : '' ?>"><a href="feedback.php">Feedback</a></li>
                   <li class="<?php echo ($page == 'contact')? 'active' : '' ?>"><a href="contact.php">Contact</a></li>
+                  <li class="login"><a href="login.php">login</a>
+                    <div></div>
+                  </li>
                 </ul>
               </nav>
             </div>
