@@ -1,5 +1,6 @@
 
 <?php include_once('inc/top.inc.php') ?>
+
       <div class="inner cover">
             
             <form method="post" action="">
@@ -18,11 +19,15 @@
 
 
                <button type"submit" name="signin">signin</button>
+                       
             </form>
 
+ 
+      
             
 
       	
       </div> 
 <?php include_once('inc/bottom.inc.php') ?>
+
       

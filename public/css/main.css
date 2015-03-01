@@ -1,4 +1,4 @@
-.contents.inner {
+.contents.inner {					
 	padding: 120px 0;
 }
 #rosor {
@@ -27,4 +27,6 @@ input[type="text"], input[type="password"] {
  form ul > li > label.stuborn{
  	margin-right: 1px;
  } 
-
+.man{
+	display: inline-block;
+}																																																				
