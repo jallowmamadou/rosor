@@ -1,0 +1,71 @@
+.item{
+	max-width: 290px;
+	border: 1px solid white;
+}
+
+.item form > ul {
+	padding: 0 !important;
+	margin-bottom: 0;
+}
+li.item-title {
+
+	border-bottom: 1px solid white;
+	padding: 1px 0 2px 0;
+
+}
+li.item-title > span{
+	padding: 3px;
+	margin: 2px;
+	text-align: center;
+	text-transform: capitalize;
+	font-weight: bold;
+/*	letter-spacing: 0.1em;
+*/}
+li.item-title > span.title{
+	margin-left: -38px;
+}
+li.item-title > span.price{
+	padding-left: 3px;
+	border-left: 1px solid white;
+}
+
+li.image img {
+
+	width: 100%;
+}
+li.image {
+
+	border-bottom: 1px solid white;
+}
+li.desciption {
+	padding: 2px;
+	border: 1px solid white;
+	max-height: 180px;
+	overflow: hidden; /*this should be change*/
+}
+
+/*li.tbutton > input[type="text"] {
+	margin-left: -47px;
+padding: 2px 10px;
+}
+li.tbutton > input[type="submit"] {
+
+}
+#send-order{
+background: blue;
+float: right;
+display: inline;
+padding: 0 46px;
+
+}*/
+li.tbutton > input{
+	float: left;
+	display: inline;
+	margin: 0;
+}
+#send-order{
+background: blue;
+padding: 4px 39px;
+border-style: none;
+
+}

@@ -18,6 +18,7 @@
     <link href="public/css/bootstrap.css" rel="stylesheet">
     <link href="public/css/style.css" rel="stylesheet">
     <link href="public/css/main.css" rel="stylesheet">
+    <link href="public/css/item-snippet.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
